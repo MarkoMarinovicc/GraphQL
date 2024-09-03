@@ -1,0 +1,15 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "Part 8 of FullstackOpen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marko Marinovic",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "graphql": "^16.9.0"
+  }
+}
